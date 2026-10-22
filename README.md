@@ -8,13 +8,19 @@ published via GitHub Pages, and imported by the
 seed source (own manifest, version, and sync checkpoint).
 
 Split out of the [wod-wiki-community](https://github.com/bitcobblers/wod-wiki-community)
-corpus; notebook chunk ids are unchanged so app-side sync state survives.
+corpus. Notebooks are split by year; the split changed note paths and
+chunk ids, so app-side sync state resets once on the next import.
 
 ## Notebooks
 
 | notebook | kind | items |
 |---|---|---:|
-| `zombiefit` | collection | 1428 |
+| `zombiefit-2009` | collection | 150 |
+| `zombiefit-2010` | collection | 656 |
+| `zombiefit-2011` | collection | 402 |
+| `zombiefit-2012` | collection | 199 |
+| `zombiefit-2013` | collection | 18 |
+| `zombiefit-2020` | collection | 3 |
 
 ## Layout
 

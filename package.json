@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "wod-wiki-seed-zombie-fit \u2014 a Wod.Wiki community seed source: grouped notebooks validated and compiled into versioned seed artifacts by the wod CLI from @bitcobblers/wod-wiki-tools.",
+  "description": "wod-wiki-seed-zombie-fit — a Wod.Wiki community seed source: grouped notebooks validated and compiled into versioned seed artifacts by the wod CLI from @bitcobblers/wod-wiki-tools.",
   "scripts": {
     "build": "wod build",
     "build:scaffold": "wod build --scaffold",
